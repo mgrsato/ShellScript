@@ -1,4 +1,4 @@
-#!/usr/bin/sh
+#!/bin/sh
 
 wget -q https://weathernews.jp/onebox/35.455618/139.629826/temp=c -O /dev/stdout > temp
 
